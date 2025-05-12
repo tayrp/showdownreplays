@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<!-- version 1 -->
+<title>[Gen 9] Random Battle replay: Dabt vs. mystixmew</title>
+<style>
+html,body {font-family:Verdana, sans-serif;font-size:10pt;margin:0;padding:0;}body{padding:12px 0;} .battle-log {font-family:Verdana, sans-serif;font-size:10pt;} .battle-log-inline {border:1px solid #AAAAAA;background:#EEF2F5;color:black;max-width:640px;margin:0 auto 80px;padding-bottom:5px;} .battle-log .inner {padding:4px 8px 0px 8px;} .battle-log .inner-preempt {padding:0 8px 4px 8px;} .battle-log .inner-after {margin-top:0.5em;} .battle-log h2 {margin:0.5em -8px;padding:4px 8px;border:1px solid #AAAAAA;background:#E0E7EA;border-left:0;border-right:0;font-family:Verdana, sans-serif;font-size:13pt;} .battle-log .chat {vertical-align:middle;padding:3px 0 3px 0;font-size:8pt;} .battle-log .chat strong {color:#40576A;} .battle-log .chat em {padding:1px 4px 1px 3px;color:#000000;font-style:normal;} .chat.mine {background:rgba(0,0,0,0.05);margin-left:-8px;margin-right:-8px;padding-left:8px;padding-right:8px;} .spoiler {color:#BBBBBB;background:#BBBBBB;padding:0px 3px;} .spoiler:hover, .spoiler:active, .spoiler-shown {color:#000000;background:#E2E2E2;padding:0px 3px;} .spoiler a {color:#BBBBBB;} .spoiler:hover a, .spoiler:active a, .spoiler-shown a {color:#2288CC;} .chat code, .chat .spoiler:hover code, .chat .spoiler:active code, .chat .spoiler-shown code {border:1px solid #C0C0C0;background:#EEEEEE;color:black;padding:0 2px;} .chat .spoiler code {border:1px solid #CCCCCC;background:#CCCCCC;color:#CCCCCC;} .battle-log .rated {padding:3px 4px;} .battle-log .rated strong {color:white;background:#89A;padding:1px 4px;border-radius:4px;} .spacer {margin-top:0.5em;} .message-announce {background:#6688AA;color:white;padding:1px 4px 2px;} .message-announce a, .broadcast-green a, .broadcast-blue a, .broadcast-red a {color:#DDEEFF;} .broadcast-green {background-color:#559955;color:white;padding:2px 4px;} .broadcast-blue {background-color:#6688AA;color:white;padding:2px 4px;} .infobox {border:1px solid #6688AA;padding:2px 4px;} .infobox-limited {max-height:200px;overflow:auto;overflow-x:hidden;} .broadcast-red {background-color:#AA5544;color:white;padding:2px 4px;} .message-learn-canlearn {font-weight:bold;color:#228822;text-decoration:underline;} .message-learn-cannotlearn {font-weight:bold;color:#CC2222;text-decoration:underline;} .message-effect-weak {font-weight:bold;color:#CC2222;} .message-effect-resist {font-weight:bold;color:#6688AA;} .message-effect-immune {font-weight:bold;color:#666666;} .message-learn-list {margin-top:0;margin-bottom:0;} .message-throttle-notice, .message-error {color:#992222;} .message-overflow, .chat small.message-overflow {font-size:0pt;} .message-overflow::before {font-size:9pt;content:'...';} .subtle {color:#3A4A66;}
+</style>
+<div class="wrapper replay-wrapper" style="max-width:1180px;margin:0 auto">
+<input type="hidden" name="replayid" value="gen9randombattle-4906" />
+<div class="battle"></div><div class="battle-log"></div><div class="replay-controls"></div><div class="replay-controls-2"></div>
+<h1 style="font-weight:normal;text-align:center"><strong>[Gen 9] Random Battle</strong><br /><a href="http://pokemonshowdown.com/users/dabt" class="subtle" target="_blank">Dabt</a> vs. <a href="http://pokemonshowdown.com/users/mystixmew" class="subtle" target="_blank">mystixmew</a></h1>
+<script type="text/plain" class="battle-log-data">|j|☆Dabt
+|j|☆mystixmew
+
+|t:|1747080838
+|gametype|singles
+|player|p1|Dabt|169|
+|player|p2|mystixmew|valerie|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1747080838
+|start
+|switch|p1a: Leafeon|Leafeon, L88, M|100\/100
+|switch|p2a: Piloswine|Piloswine, L85, M|309\/309
+|turn|1
+|
+|t:|1747080851
+|-terastallize|p1a: Leafeon|Dark
+|move|p1a: Leafeon|Knock Off|p2a: Piloswine
+|-damage|p2a: Piloswine|192\/309
+|-enditem|p2a: Piloswine|Eviolite|[from] move: Knock Off|[of] p1a: Leafeon
+|-damage|p1a: Leafeon|91\/100|[from] item: Life Orb
+|move|p2a: Piloswine|Stealth Rock|p1a: Leafeon
+|-sidestart|p1: Dabt|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1747080864
+|switch|p2a: Toxicroak|Toxicroak, L84, M|277\/277
+|move|p1a: Leafeon|Leaf Blade|p2a: Toxicroak
+|-resisted|p2a: Toxicroak
+|-damage|p2a: Toxicroak|190\/277
+|-damage|p1a: Leafeon|81\/100|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1747080875
+|-terastallize|p2a: Toxicroak|Ground
+|move|p1a: Leafeon|Knock Off|p2a: Toxicroak
+|-damage|p2a: Toxicroak|0 fnt
+|-enditem|p2a: Toxicroak|Life Orb|[from] move: Knock Off|[of] p1a: Leafeon
+|faint|p2a: Toxicroak
+|-damage|p1a: Leafeon|71\/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆mystixmew|oh 
+|c|☆Dabt|oh oh
+|
+|t:|1747080884
+|switch|p2a: Maushold|Maushold-Four, L76|238\/238
+|turn|4
+|c|☆Dabt|i didnt see that coming
+|
+|t:|1747080889
+|move|p1a: Leafeon|Knock Off|p2a: Maushold
+|-damage|p2a: Maushold|34\/238
+|-enditem|p2a: Maushold|Wide Lens|[from] move: Knock Off|[of] p1a: Leafeon
+|-damage|p1a: Leafeon|62\/100|[from] item: Life Orb
+|move|p2a: Maushold|Population Bomb|p1a: Leafeon
+|-damage|p1a: Leafeon|56\/100
+|-damage|p1a: Leafeon|50\/100
+|-damage|p1a: Leafeon|44\/100
+|-damage|p1a: Leafeon|37\/100
+|-damage|p1a: Leafeon|31\/100
+|-hitcount|p1a: Leafeon|5
+|
+|upkeep
+|turn|5
+|c|☆mystixmew|im cooked
+|
+|t:|1747080902
+|move|p1a: Leafeon|Swords Dance|p1a: Leafeon
+|-boost|p1a: Leafeon|atk|2
+|move|p2a: Maushold|Bite|p1a: Leafeon
+|-resisted|p1a: Leafeon
+|-damage|p1a: Leafeon|25\/100
+|
+|upkeep
+|turn|6
+|
+|t:|1747080910
+|switch|p2a: Hitmonlee|Hitmonlee, L85, M|224\/224
+|move|p1a: Leafeon|Knock Off|p2a: Hitmonlee
+|-resisted|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|-enditem|p2a: Hitmonlee|White Herb|[from] move: Knock Off|[of] p1a: Leafeon
+|faint|p2a: Hitmonlee
+|-damage|p1a: Leafeon|16\/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆Dabt|WHAT
+|c|☆mystixmew|IM COOKED
+|c|☆Dabt|HOW THE HELL
+|
+|t:|1747080922
+|switch|p2a: Piloswine|Piloswine, L85, M|192\/309
+|turn|7
+|c|☆Dabt|its a fighting type
+|
+|t:|1747080928
+|move|p1a: Leafeon|Leaf Blade|p2a: Piloswine
+|-supereffective|p2a: Piloswine
+|-damage|p2a: Piloswine|0 fnt
+|faint|p2a: Piloswine
+|-damage|p1a: Leafeon|6\/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1747080935
+|switch|p2a: Sunflora|Sunflora, F|312\/312
+|turn|8
+|
+|t:|1747080939
+|move|p1a: Leafeon|Knock Off|p2a: Sunflora
+|-damage|p2a: Sunflora|0 fnt
+|-enditem|p2a: Sunflora|Life Orb|[from] move: Knock Off|[of] p1a: Leafeon
+|faint|p2a: Sunflora
+|-damage|p1a: Leafeon|0 fnt|[from] item: Life Orb
+|faint|p1a: Leafeon
+|
+|upkeep
+|c|☆Dabt|JESUS
+|c|☆Dabt|You wanna cry now or later
+|c|☆Dabt|i just saw my team
+|c|☆mystixmew|both
+|
+|t:|1747080961
+|switch|p1a: Mewtwo|Mewtwo, L72|100\/100
+|switch|p2a: Furret|Furret, L94, M|312\/312
+|-ability|p1a: Mewtwo|Unnerve
+|-damage|p1a: Mewtwo|88\/100|[from] Stealth Rock
+|-item|p1a: Mewtwo|Life Orb|[from] ability: Frisk|[of] p2a: Furret
+|turn|9
+|c|☆mystixmew|NOOOOOOOOOOOOOOOOOOOO
+|c|☆Dabt|yaaaaaaaaaaaaaaaaah
+|
+|t:|1747080975
+|move|p1a: Mewtwo|Psystrike|p2a: Furret
+|-damage|p2a: Furret|147\/312
+|-damage|p1a: Mewtwo|78\/100|[from] item: Life Orb
+|move|p2a: Furret|Trick|p1a: Mewtwo
+|-activate|p2a: Furret|move: Trick|[of] p1a: Mewtwo
+|-item|p1a: Mewtwo|Choice Band|[from] move: Trick
+|-item|p2a: Furret|Life Orb|[from] move: Trick
+|
+|upkeep
+|turn|10
+|
+|t:|1747080984
+|move|p1a: Mewtwo|Psystrike|p2a: Furret
+|-crit|p2a: Furret
+|-damage|p2a: Furret|0 fnt
+|faint|p2a: Furret
+|
+|upkeep
+|
+|t:|1747080990
+|switch|p2a: Maushold|Maushold-Four, L76|34\/238
+|turn|11
+|
+|t:|1747080997
+|move|p1a: Mewtwo|Psystrike|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|faint|p2a: Maushold
+|
+|win|Dabt</script>
+</div>
+<div class="battle-log battle-log-inline"><div class="inner"><div class="battle-options"><div style="padding-top: 3px; padding-right: 3px; text-align: right"><button class="icon button" name="openBattleOptions" title="Options">Battle Options</button></div></div><div class="inner message-log"><div class="chat"><small>☆Dabt and ☆mystixmew joined</small></div><div class=""><small>Format:</small> <br><strong>[Gen 9] Random Battle</strong></div><div class=""><small><em>Species Clause:</em> Limit one of each Pokémon</small></div><div class=""><small><em>HP Percentage Mod:</em> HP is shown in percentages</small></div><div class=""><small><em>Sleep Clause Mod:</em> Limit one foe put to sleep</small></div><div class=""><small><em>Illusion Level Mod:</em> Illusion disguises the Pokémon's true level</small></div><div class="spacer battle-history"><br></div><div class="battle-history">Battle started between Dabt and mystixmew!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Dabt sent out <strong>Leafeon</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Piloswine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 1</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>The opposing Leafeon has Terastallized into the Dark-type!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Piloswine lost <abbr title="−117/309">37.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Piloswine's Eviolite!</small><br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Piloswine used <strong>Stealth Rock</strong>!<br></div><div class="battle-history"><small>Pointed stones float in the air around the opposing team!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 2</h2><div class="spacer battle-history"><br></div><div class="battle-history">Piloswine, come back!<br></div><div class="battle-history">Go! <strong>Toxicroak</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−87/277">31.4%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 3</h2><div class="spacer battle-history"><br></div><div class="battle-history"><small>Toxicroak has Terastallized into the Ground-type!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Toxicroak lost <abbr title="−190/277">68.6%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Toxicroak's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Toxicroak fainted!<br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="chat chatmessage-mystixmew mine"><strong style="color:#c13ab1"><small>☆</small><span class="username" data-name="mystixmew">mystixmew</span>:</strong> <em>oh </em></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>oh oh</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Maushold (<strong>Maushold-Four</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 4</h2><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>i didnt see that coming</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Maushold lost <abbr title="−204/238">85.7%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Maushold's Wide Lens!</small><br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maushold used <strong>Population Bomb</strong>!<br></div><div class="battle-history"><small>(The opposing Leafeon lost 6% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost 6% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost 6% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost 7% of its health!)</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost 6% of its health!)</small><br></div><div class="battle-history"><small>The Pokémon was hit 5 times!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 5</h2><div class="chat chatmessage-mystixmew mine"><strong style="color:#c13ab1"><small>☆</small><span class="username" data-name="mystixmew">mystixmew</span>:</strong> <em>im cooked</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Swords Dance</strong>!<br></div><div class="battle-history"><small>The opposing Leafeon's Attack rose sharply!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maushold used <strong>Bite</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(The opposing Leafeon lost 6% of its health!)</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 6</h2><div class="spacer battle-history"><br></div><div class="battle-history">Maushold, come back!<br></div><div class="battle-history">Go! <strong>Hitmonlee</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>It's not very effective...</small><br></div><div class="battle-history"><small>(Hitmonlee lost <abbr title="−224/224">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Hitmonlee's White Herb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Hitmonlee fainted!<br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>WHAT</em></div><div class="chat chatmessage-mystixmew mine"><strong style="color:#c13ab1"><small>☆</small><span class="username" data-name="mystixmew">mystixmew</span>:</strong> <em>IM COOKED</em></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>HOW THE HELL</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Piloswine</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 7</h2><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>its a fighting type</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Leaf Blade</strong>!<br></div><div class="battle-history"><small>It's super effective!</small><br></div><div class="battle-history"><small>(Piloswine lost <abbr title="−192/309">62.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Piloswine fainted!<br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Sunflora</strong>!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 8</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon used <strong>Knock Off</strong>!<br></div><div class="battle-history"><small>(Sunflora lost <abbr title="−312/312">100%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Leafeon knocked off Sunflora's Life Orb!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Sunflora fainted!<br></div><div class="battle-history"><small>The opposing Leafeon lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Leafeon fainted!<br></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>JESUS</em></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>You wanna cry now or later</em></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>i just saw my team</em></div><div class="chat chatmessage-mystixmew mine"><strong style="color:#c13ab1"><small>☆</small><span class="username" data-name="mystixmew">mystixmew</span>:</strong> <em>both</em></div><div class="spacer battle-history"><br></div><div class="battle-history">Dabt sent out <strong>Mewtwo</strong>!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! <strong>Furret</strong>!<br></div><div class="battle-history">[The opposing Mewtwo's Unnerve]<br><small>Your team is too nervous to eat Berries!</small><br></div><div class="battle-history"><small>Pointed stones dug into the opposing Mewtwo!</small><br></div><div class="battle-history">[Furret's Frisk]<br><small>Furret frisked the opposing Mewtwo and found its Life Orb!</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 9</h2><div class="chat chatmessage-mystixmew mine"><strong style="color:#c13ab1"><small>☆</small><span class="username" data-name="mystixmew">mystixmew</span>:</strong> <em>NOOOOOOOOOOOOOOOOOOOO</em></div><div class="chat chatmessage-dabt"><strong style="color:#3b66dc"><small>☆</small><span class="username" data-name="Dabt">Dabt</span>:</strong> <em>yaaaaaaaaaaaaaaaaah</em></div><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mewtwo used <strong>Psystrike</strong>!<br></div><div class="battle-history"><small>(Furret lost <abbr title="−165/312">52.9%</abbr> of its health!)</small><br></div><div class="battle-history"><small>The opposing Mewtwo lost some of its HP!</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Furret used <strong>Trick</strong>!<br></div><div class="battle-history"><small>Furret switched items with its target!</small><br></div><div class="battle-history"><small>The opposing Mewtwo obtained one Choice Band.</small><br></div><div class="battle-history"><small>Furret obtained one Life Orb.</small><br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 10</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mewtwo used <strong>Psystrike</strong>!<br></div><div class="battle-history"><small>A critical hit!</small><br></div><div class="battle-history"><small>(Furret lost <abbr title="−147/312">47.1%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Furret fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history">Go! Maushold (<strong>Maushold-Four</strong>)!<br></div><div class="spacer battle-history"><br></div><h2 class="battle-history">Turn 11</h2><div class="spacer battle-history"><br></div><div class="battle-history">The opposing Mewtwo used <strong>Psystrike</strong>!<br></div><div class="battle-history"><small>(Maushold lost <abbr title="−34/238">14.3%</abbr> of its health!)</small><br></div><div class="spacer battle-history"><br></div><div class="battle-history">Maushold fainted!<br></div><div class="spacer battle-history"><br></div><div class="battle-history"><strong>Dabt</strong> won the battle!<br></div></div><div class="inner-preempt message-log"></div></div></div>
+</div>
+<script>
+let daily = Math.floor(Date.now()/1000/60/60/24);document.write('<script src="https://play.pokemonshowdown.com/js/replay-embed.js?version'+daily+'"></'+'script>');
+</script>
